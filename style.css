@@ -9,6 +9,11 @@
   -moz-border-radius:8px;
 }
 
-body {
+.body {
   background: url(http://25.media.tumblr.com/50046a20f58d2ab6b3fcf611a311861a/tumblr_mhgpwyMAQB1qee2r6o3_500.jpg);
+}
+.logo {
+    font-size: 65px;
+    color:#fff;
+    font-family: serif;
 }
