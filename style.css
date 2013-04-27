@@ -17,10 +17,9 @@ body {
     font-size: 65px;
     color:#aaa;
     font-family: serif;
-}
-
-.container {
     margin:0 auto;
     width:800px;
     display:block;
 }
+
+
