@@ -15,10 +15,9 @@ body {
 }
 .logo {
     font-size: 65px;
-    color:#aaa;
+    color:#000000;
     font-family: serif;
     margin:0 auto;
-    width:800px;
     display:block;
 }
 
