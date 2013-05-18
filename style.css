@@ -23,7 +23,29 @@ body {
 
 
 .tops {height: 137px; width: 950px; display:table;}
+.tops p{color:white;}
+
 
 .tops1 {float:left; display:block; width:500px;}
+.tops1 p {color:white;padding:5px 10px;text-decoration: none;font-size:60%;}
+.tops1 p:hover{color:#359;padding:6px 11px;border-bottom:1px solid black;font-size:65%;}
 
 .tops2 {float:left; display:block; width:450px;}
+
+
+.items li a {
+    float: left;
+    display: block;
+    color:#fafafa;
+    padding:5px 10px;
+    text-decoration: none;
+}
+
+.items li a:hover {
+    float: left;
+    display: block;
+    color:#fff;
+    border-bottom:1px solid #fff;
+    padding:4px 10px;
+    text-decoration: none;
+}
