@@ -29,6 +29,8 @@ body {
 
 
 .items li a {
+    hight: 10px;
+    left: 55px;
     float: left;
     display: block;
     color:#fafafa;
