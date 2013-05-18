@@ -39,6 +39,8 @@ body {
 }
 
 .items li a:hover {
+    height: 10px;
+    left: 55px;
     float: left;
     display: block;
     color:#fff;
