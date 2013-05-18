@@ -21,6 +21,12 @@ body {
     display:block;
 }
 
+.items {
+    display:block;
+    text-align: center;
+    padding-left: 45px;
+}
+
 
 .items li a {
     float: left;
