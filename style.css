@@ -22,18 +22,6 @@ body {
 }
 
 
-.tops {height: 137px; width: 950px; display:table;}
-.tops p{color:white;}
-
-
-.tops1 {color:white;float:left; display:block; width:500px;}
-.tops1 p {color:white;padding:5px 10px;font-size:60%;}
-.tops1 p {text-decoration:none;}
-.tops1 p:hover{color:#359;padding:6px 11px;border-bottom:1px solid black;font-size:65%;}
-
-.tops2 {float:left; display:block; width:450px;}
-
-
 .items li a {
     float: left;
     display: block;
