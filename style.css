@@ -50,3 +50,10 @@ body {
     padding:4px 10px;
     text-decoration: none;
 }
+
+.items li {
+    float: left;
+    margin:0 5px;
+    display: block;
+}
+
