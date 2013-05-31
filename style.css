@@ -10,6 +10,17 @@
   font_size: 10px;
 }
 
+.main_content a {
+    color:#039ae0;
+    text-decoration: none;
+}
+
+
+.main_content a:hover {
+    color:#039ae0;
+    text-decoration: underline;
+}
+
 body {
   background: url(http://s41.radikal.ru/i094/1305/fb/3dc7994859b8.png);
 }
