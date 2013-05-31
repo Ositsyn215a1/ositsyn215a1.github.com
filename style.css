@@ -74,3 +74,8 @@ body {
     width:800px;
     display:block;
 }
+
+.header {
+    margin: 0 auto;
+    padding:25px;
+}
